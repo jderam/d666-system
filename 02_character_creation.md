@@ -71,7 +71,8 @@ whereas a character without the skill would need a 5+.
 6. **Zoophilism**: Ability to calm, empathize with, and communicate in a rudimentary fashion with animals.
 
 ## Extraordinary Abilities [Under Construction]
-These are unique abilities an adventurer can perform that are generally not possible otherwise.
+These are unique abilities an adventurer can perform that are generally not possible otherwise.  
+🚮 = needs revision
 
 ##### (1-2)
 1. **Alchemy**: Mix potions and poisons, provided the necessary ingredients are at hand. Identify unknown liquids with a successful check.
@@ -79,20 +80,20 @@ These are unique abilities an adventurer can perform that are generally not poss
 3. **Berserks Mode**: You may choose to enter a berserker rage, which lasts until the end of a combat. All attacks are made with disadvantage, but deal double damage on a hit.
 4. **Cantraps**: Produce minor, non-damaging magical effects at will.
 5. **Diehard**: The first time you fall to 0 hit points in a given day, you immediately gain 1 hit point back and don't lose consciousness.
-6. **Elusive**: Whenever hit in combat, make a check on one die. On a success, you've actually dodged the attack and take no damage.
+6. 🚮 **Elusive**: Whenever hit in combat, make a check on one die. On a success, you've actually dodged the attack and take no damage.
 
 ##### (3-4)
-1. **Familiar**: 
+1. 🚮 **Familiar**: 
 2. **Healing**: As an action, you can make a check to heal an ally other than yourself. On a success, the target creature is healed for 2 hit points. Alternatively, this ability can also be used to cure poison, disease, and other physical ailments that are non-magical. You must touch the recipient to perform the healing.
 3. **Lucky**: You are considered *skilled* at Saving Throws, and they are successful on 4+.
-4. **Read Magic**: Ability to discern arcane writing and cast spells from scrolls. When this ability is gained, the character also gains two randomly determined scrolls. See [**Magic**](04_magic.md) section for more details.
-5. **Opportunist**: 
+4. **Read Magic**: Ability to discern arcane writing and cast spells from scrolls. When this ability is gained, the character also gains two randomly determined scrolls (see [**Magic**](04_magic.md)).
+5. 🚮 **Opportunist**: 
 6. **Repel Undead**: On a successful check, you add the total of the two dice and turn away that many hit points of undead creatures. May be attempted once per combat.
 
 ##### (5-6)
-1. **Shield Training**: You possess a shield and are trained in its use. Whenever hit in combat, make a check on one die. On a success you've actually deflected the attack and take no damage.
+1. 🚮 **Shield Training**: You possess a shield and are trained in its use. Whenever hit in combat, make a check on one die. On a success you've actually deflected the attack and take no damage.
 2. **Sorcery**: Knowledge of and ability to cast three randomly determined spells (see [**Magic**](04_magic.md)). This ability may be taken multiple times, and three additional random spells are learned each time.
 3. **Vigilant**: Whenever your side loses initiative, make a check. If the check is successful, you act first.
 4. **Perceptive**: You have a chance to notice secret doors or other important yet subtle clues that others would miss. The GM needs to make the checks for this, and may need to be reminded from time to time that you have this ability.
-5. **Swiftness**: One movement action covers double the normal distance.
+5. 🚮 **Swiftness**: One movement action covers double the normal distance.
 6. **Weapon Mastery**: Choose one specific weapon, e.g. *zweihander*. You are skilled in the use of this weapon, and combat checks made when using it are successful on a 4+.
