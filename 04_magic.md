@@ -11,8 +11,7 @@ Characters having the **Sorcery** extraordinary ability may attempt to cast a sp
 | 51-65    | Spell is successful, and may be cast again. |
 | 66       | Critical success! Spell has some aspect of its effect doubled (damage, number of creatures affected, duration, etc.) |
 
-
-Alternative Option: Instead of requiring spell checks, spells are always successful but cost 1 hit point to cast.
+**Alternative Option**: Instead of requiring spell checks, spells are always successful but cost 1 hit point to cast.
 
 ### Corruption Chart [Under Construction]
 | d66 Roll | Result |
@@ -124,4 +123,4 @@ The **Read Magic** extraordinary ability allows an adventurer to read arcane or 
 5. Scroll 5
 6. Scroll 6
 
-Suggestion: Use the spells from Wonder & Wickedness by Brenden Strejcek for scrolls.
+**Suggestion**: Use the spells from Wonder & Wickedness by Brenden Strejcek for scrolls.
