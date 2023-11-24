@@ -1,5 +1,7 @@
 # Monsters
-Monsters are very simple in **The d666 System**. You just need to know hit points, the attacks/actions the monster can perform each turn, and any special abilities or effects. Monsters are not necessarily limited to two actions per round as characters are. Some examples are provided here.
+Monsters are very simple in **The d666 System**. You just need to know hit points, the attacks/actions the monster can perform each turn,
+and any special abilities or effects. Monsters are not necessarily limited to two actions per round as characters are.
+Some examples are provided here.
 
 ## Sample Monsters
 
