@@ -15,16 +15,16 @@ Sometimes an aspect of the situation will grant a character *advantage* or *disa
 Combat is fast and easy. Follow these steps.
 1. When a combat breaks out, start by rolling initiative. Two dice are rolled for each side and the totals are compared. The side with the highest roll acts first. Tied initiative rolls indicate simultaneous combat, and everyone gets to act, even if they are killed.
 2. On a player's turn, a character can perform two actions. Examples:
-    1. Move in to engage an enemy and make an attack with a melee weapon
-    2. Cast a spell at an enemy, then move behind a rock in an attempt to avoid being shot by arrows
-    3. Cover a great distance by using both actions to move
-    4. Reload a ranged weapon, then fire it
-    5. Make two melee attacks against an enemy that is already in melee range
-3. Under normal circumstances, all successful attacks deal 1 point of damage. Record damage taken as it occurs.
+    - Move in to engage an enemy and make an attack with a melee weapon
+    - Cast a spell at an enemy, then move behind a rock in an attempt to avoid being shot by arrows
+    - Cover a great distance by using both actions to move
+    - Reload a ranged weapon, then fire it
+    - Make two melee attacks against an enemy that is already in melee range
+3. Under normal circumstances, each successful attack deal 1 point of damage. Record damage taken as it occurs.
 4. Once all characters and monsters have had their turn, the combat round is over, and starts again at the beginning. Initiative is rolled anew at the beginning of each round. This continues until one side is defeated, retreats, or surrenders.
 
 ## Crits and Fumbles
-- **Critical Hit**: When you get two 6s on your combat check (⚅⚅), you deal double damage with this extraordinary strike! (or other effect as determined by the GM)
+- **Critical Hit**: When you get two 6s on your combat check (⚅⚅), you have landed an extraordinary blow! You may choose to deal double damage, or deal normal damage and apply a [condition](#conditions) to the enemy.
 - **Super-Critical Hit**: When the result of a combat check is three 6s (⚅⚅⚅ which is only possible when making the check with *advantage*) you instantly kill the target!
 - **Fumble**: When *all* dice come up 1 (⚀), regardless of how many are rolled. You must spend your next action to regain your bearings (or other effect as determined by the GM).
 
@@ -40,3 +40,39 @@ If another character comes to their aid before their turn comes up, with perhaps
 
 ## Rest
 A serving of food and water, combined with a full night's rest causes a character to fully regain any lost hit points.
+
+## Conditions
+- **Blinded**
+  - Cannot see
+  - Combat checks against have advantage
+  - Combat checks made have disadvantage
+- **Charmed**
+  - Fast-talk checks against are made with advantage
+- **Confused**
+  - At the start of each turn, roll a die to determine behavior
+    - 1-3: Do nothing
+    - 4: Use all actions to move in a random direction
+    - 5: Attack a random target; Do nothing if no one in range
+    - 6: Move/act normally
+- **Deafened**
+  - Cannot hear
+- **Frightened**
+  - Disadvantage on checks against the source
+  - Cannot move towards the source
+- **Grappled**
+  - Cannot move
+  - Combat checks against the grappled by the grappler have advantage
+  - Combat checks against the grappler by the grappled have disadvantage
+  - Muscle check to escape
+- **Poisoned**
+  - Disadvantage on all checks
+- **Prone**
+  - Melee combat checks against have advantage
+  - Ranged combat checks against have disadvantage
+  - Combat checks made have disadvantage
+  - Must spend an action to get up
+- **Stunned**
+  - Cannot move or speak
+  - Automatically fails saving throws
+  - Combat checks against have advantage
+  - If you begin your turn stunned, the only thing you can do is make a check. If successful, you are no longer stunned and may act normally beginning on your next turn.
